@@ -269,6 +269,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = SEX35X735R;
 				INFOPLIST_FILE = "Emoji Dictionary/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.terramarvisions.Emoji-Dictionary";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -282,6 +283,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = SEX35X735R;
 				INFOPLIST_FILE = "Emoji Dictionary/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.terramarvisions.Emoji-Dictionary";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -308,6 +310,7 @@
 				0F6393511F6F25290063CD9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
